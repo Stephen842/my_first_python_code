@@ -1,4 +1,4 @@
-#this program uses function to perform some basic arithmetis between two interger values
+#this program uses a function to perform some basic arithmetic between two interger values
 
 
 #this program give the sum of numbers by addtion
